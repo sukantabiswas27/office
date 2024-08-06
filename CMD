@@ -1,0 +1,4 @@
+setup /download configuration.xml
+setup /configure configuration.xml
+
+Pat - C:\OfficeSetup
