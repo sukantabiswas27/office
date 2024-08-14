@@ -1,5 +1,9 @@
 setup /download configuration.xml
 setup /configure configuration.xml
-
+------------------file location-------------------------
 Pat - C:\OfficeSetup
 folder name - OfficeSetup
+---------------------------Create a new configuration-------------------------------
+https://config.office.com
+--------------------------Office Deployment Tool--------------------------------
+https://www.microsoft.com/en-in/download/details.aspx?id=49117&msockid=10f012ce42cc61813589061b436a607e
